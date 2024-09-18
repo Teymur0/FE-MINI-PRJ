@@ -1,0 +1,54 @@
+.card {
+  background-color: #333;
+  border: 1px solid #444;
+}
+
+.card-title,
+.card-text {
+  color: white;
+}
+
+.carousel-caption {
+  color: white;
+}
+
+.carousel-container {
+  height: 100vh;
+  margin-bottom: 60px;
+  margin-top: 10px;
+
+  position: relative;
+  overflow: hidden;
+}
+
+.carousel-inner {
+  width: 100vw;
+  height: 100vh;
+}
+
+.carousel-item img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: contain;
+}
+
+.card {
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.btn-more-info {
+  background-color: #800000;
+  border: none;
+  color: white;
+}
+
+.btn-more-info:hover {
+  background-color: #c30808;
+}
+
+.pagination .page-link {
+  color: white;
+  background-color: black;
+  border: 1px solid #444;
+}

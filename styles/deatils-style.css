@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+  color: white;
+  padding-top: 70px;
+}
+
+.navbar-brand img {
+  height: 40px;
+  width: auto;
+}
+
+.navbar-nav .nav-item {
+  margin-left: 20px;
+}
+
+.navbar {
+  background-color: #800000 !important;
+  /* Bordo color */
+}
+
+.navbar-brand,
+.navbar-nav .nav-link,
+.navbar-toggler-icon {
+  color: white !important;
+}
+
+.card {
+  background-color: #333;
+  border: 1px solid #444;
+}
+
+.card-title,
+.card-text {
+  color: white;
+}
+
+.carousel-caption {
+  color: white;
+}
+
+.btn-more-info {
+  background-color: #800000;
+  /* Bordo color */
+  border: none;
+  color: white;
+}
+
+.btn-more-info:hover {
+  background-color: #600000;
+}
+
+.details-img {
+  max-width: 100%;
+  border-radius: 0.5rem;
+}
+
+.details-section {
+  background-color: #333;
+  border-radius: 0.5rem;
+  padding: 20px;
+}
